@@ -42,7 +42,7 @@ public class ViewSinhVien extends javax.swing.JFrame {
             });
         }
     }
-
+//đã sử dụng git oke
     private void loadCbo() {
         cboPhong.removeAllItems();
         for (int i = 301; i <= 310; i++) {
